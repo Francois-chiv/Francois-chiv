@@ -1,15 +1,14 @@
 ### Hi there 👋
 🔭 **Projects I'm working on**
-
-HomeChef - Handle recipe's ingredients
+- HomeChef - Handle recipe's ingredients
 
 🌱 **I’m currently learning **
-React-native
+- React-native
 
 💬 Let's connect
-Twitter
-LinkedIn
-Portfolio
+- Twitter
+- LinkedIn
+- [Portfolio](https://francois-chiv.github.io)
 
 📝 Latest blog posts
-[robot_tutle](https://francois-chiv.github.io/projet1)
+- [robot_tutle](https://francois-chiv.github.io/projet1)
