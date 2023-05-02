@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 **Projects I'm working on**
-- HomeChef - Handle recipe's ingredients
+- HomeChef - Set global styles, improve form styles
 
 #### 🌱 **I’m currently learning**
 - React-native
