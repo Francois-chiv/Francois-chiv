@@ -8,9 +8,12 @@
 - Python
 
 #### 💬 Let's connect
-- Twitter
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/fran%C3%A7ois-chiv-982737182/)
 - [Portfolio](https://francois-chiv.github.io)
 
 #### 📝 Latest blog posts
 - [robot_tutle](https://francois-chiv.github.io/projet1)
+
+#### 🗒️ TODO-List
+- Create blog about how to create a website
+- Document HomeChef and Jarvis
