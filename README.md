@@ -16,4 +16,5 @@
 
 #### 🗒️ TODO-List
 - Create blog about how to create a website
+- Create blog about AI
 - Document HomeChef and Jarvis
