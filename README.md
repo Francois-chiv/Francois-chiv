@@ -19,3 +19,4 @@
 - Create blog about AI
 - Create blog about clean code
 - Document HomeChef and Jarvis
+- Create FAQ page about my professional project
