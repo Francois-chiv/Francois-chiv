@@ -1,7 +1,8 @@
 ### Hi there 👋
 🔭 **Projects I'm working on**
 - HomeChef - Set global styles, improve form styles
-- Jarvis - Python voice assistant, voice recognition 
+- Jarvis - Python voice assistant, voice recognition
+- francois-chiv.fr my personnal website
 
 #### 🌱 **I’m currently learning or improving**
 - React-native
