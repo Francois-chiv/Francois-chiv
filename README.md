@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 **Projects I'm working on**
-- HomeChef - Set global styles, improve form styles
+- HomeChef - Working on soon MVC, filters and improve frontend
+
+⏸️ **Projects in standby**
 - Jarvis - Python voice assistant, voice recognition
 - francois-chiv.fr my personnal website
 
