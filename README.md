@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 **Projects I'm working on**
-- HomeChef - Working on soon MVC, filters and improve frontend
+- HomeChef - Working on soon MVC, improve frontend, setup .env, ingredients table
 
 ⏸️ **Projects in standby**
 - Jarvis - Python voice assistant, voice recognition
@@ -23,3 +23,4 @@
 - Create blog about clean code
 - Document HomeChef and Jarvis
 - Create FAQ page about my professional project
+- Become a Data Scientist
