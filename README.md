@@ -1,10 +1,10 @@
 ### Hi there 👋
 🔭 **Projects I'm working on**
-- HomeChef - Working on soon MVC, improve frontend, setup .env, ingredients table
 
 ⏸️ **Projects in standby**
 - Jarvis - Python voice assistant, voice recognition
 - francois-chiv.fr my personnal website
+- HomeChef - Working on soon MVC, improve frontend, setup .env, ingredients table
 
 #### 🌱 **I’m currently learning or improving**
 - React-native
