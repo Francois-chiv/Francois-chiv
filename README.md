@@ -1,5 +1,6 @@
 ### Hi there 👋
 🔭 **Projects I'm working on**
+- SecretProject that i cannot talk about here
 
 ⏸️ **Projects in standby**
 - Jarvis - Python voice assistant, voice recognition
